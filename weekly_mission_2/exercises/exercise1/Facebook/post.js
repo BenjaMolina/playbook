@@ -1,5 +1,5 @@
 const post = {
-    usuario: "VG Alejandro",
+    usuario: "BMolina",
     descripcion: "Hola, el día de hoy estoy aprendiendo a modelar objetos con NodeJS en JavaScript",
     reacciones: 350,
 
